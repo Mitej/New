@@ -13,4 +13,4 @@ Running the Tests
 	Breakdown of Tests
 	The code in this project involves cleaning and formatting a dataset using Pandas. It includes methods to read CSV files, check data 	types, and convert columns to the correct data format. Here's an example breakdown of the tests:
 Deployment:
-Ensure you have Python and Pandas installed on your system. Clone the repository and execute the Python script to see the data cleaning and formatting in action.
+To have Python and Pandas installed on my system. Clone the repository and execute the Python script to see the data cleaning and formatting in action.
